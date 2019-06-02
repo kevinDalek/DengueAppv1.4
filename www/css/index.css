@@ -240,7 +240,7 @@ table#t01 th    {
 }
 
 .spoken-response.is-active {
-  height: auto;
+  max-height: 400px;
 }
 .spoken-response__text {
   background-color: #040E23;
